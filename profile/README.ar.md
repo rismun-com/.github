@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rismun-logo-en.svg" alt="Rismun" width="220" />
+  <img src="../assets/rismun-logo-en.svg" alt="Rismun" width="220" />
 </p>
 
 # ريسمان

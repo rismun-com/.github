@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/rismun-logo-en.svg" alt="Rismun" width="220" />
+  <img src="../assets/rismun-logo-en.svg" alt="Rismun" width="220" />
   <br />
   <a href="README.fa.md">فارسی</a> · <a href="README.ar.md">العربية</a> · <a href="README.md">English</a>
 </p>
